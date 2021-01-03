@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://img.wattpad.com/userbg/monopi123.49228.jpg" alt="Botto-re" width="500" />
 
-# Whatsapp-Botto-Re
+# Whatsapp-YnBoot-.
 
 > A whatsapp bot made using open-wa/wa-automate-nodejs library
 
@@ -21,7 +21,7 @@
 </p>
 
 ### 🏠 [Homepage](https://github.com/SomnathDas/Whatsapp-Botto-Re)
-[Whatsapp Group](https://chat.whatsapp.com/DchcgNLvkluIUe0DMf13QR) (Updated)!
+[Whatsapp Group](CoomingSoon) (Updated)!
 
 </div>
 
@@ -38,10 +38,10 @@ Edit `config.json` to customize the bot as needed
 ```JSON
 
 {
-    "botadmins": [], 
+    "botadmins": [085765964082], 
     "prefix": "=",
     "uaOverride": "WhatsApp/2.2037.6 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36",
-    "botname": "Emilia"
+    "botname": "YnBoot"
 }
 
 ```
@@ -65,7 +65,7 @@ Edit `config.json` to customize the bot as needed
 
 ```bash
 
->git clone https://github.com/SomnathDas/Whatsapp-botto-re
+>git clone https://github.com/WasappBot/Whatsapp-Botto-Re
 > npm install
 
 ```
@@ -123,14 +123,6 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 👤 **Somnath Das**
 
-* Twitter: [@aksd3247](https://twitter.com/aksd3247)
-* Github: [@SomnathDas](https://github.com/SomnathDas)
-* Instagram: [@samurai3247](https://www.instagram.com/samurai3247/)
-
-👤 **Alen Yohannan** 
-* Twitter: 
-* GitHub: [@AlenSaito1](https://github.com/AlenSaito1)
-* Instagram:
 
 ## 📝 License
 
